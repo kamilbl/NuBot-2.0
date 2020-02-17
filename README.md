@@ -18,4 +18,5 @@
     - Close > Sell_Price(Buy_Price * MinProfit)
     
     We can add a few crypto pairs and export to Excel. 
+    (https://github.com/kamilbl/NuBot-2.0/blob/master/StrategyScalpingBacktest.PNG)
     
