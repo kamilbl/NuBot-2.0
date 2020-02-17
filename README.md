@@ -36,3 +36,7 @@
                 
     ![ScreenShot](https://github.com/kamilbl/NuBot-2.0/blob/master/StrategyScalpingBacktest.PNG)
     
+    LastUpdate:
+    
+    -2020-02-17 19:40
+    
