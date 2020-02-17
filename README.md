@@ -28,8 +28,11 @@
     Export to Excel:
     
     `with pd.ExcelWriter(str(market) + '_Scalping_Strategy_TEST.xlsx') as writer:`
+    
                 `dfSS.to_excel(writer, sheet_name=str(market))`
+                
                 `writer.save()`
+                
                 `writer.close()`
                 
     ![ScreenShot](https://github.com/kamilbl/NuBot-2.0/blob/master/StrategyScalpingBacktest.PNG)
