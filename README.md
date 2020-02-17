@@ -39,4 +39,5 @@
     LastUpdate:
     
     -2020-02-17 19:40
-    
+
+2) StrategyScalpingTrading <=== Trading Strategy Scalping for cryptocurrencies. (Comming soon!) :)
